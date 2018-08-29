@@ -1,6 +1,6 @@
 /*
 
-Name: Sean Myko C. Baang
+Name: Sean __________
 Section: BSIT-1 CCB
 Date Finished: 08/29/2018
 
