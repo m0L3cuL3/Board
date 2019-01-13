@@ -1,9 +1,5 @@
 /*
 
-Name: Sean __________
-Section: BSIT-1 CCB
-Date Finished: 08/29/2018
-
 Description: 
 
 Identify whether the 1's crossed each other(based on queen's move in chess)
